@@ -1,2 +1,2 @@
-# mcduffs.github.io
+# mcduffjs.github.io
 Website for S-FX.net
